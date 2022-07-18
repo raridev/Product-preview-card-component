@@ -1,0 +1,28 @@
+/* BUTTON COMPONENTS */
+
+
+
+.btn {
+    display: flex;
+
+    font-family:$font-family-title;
+    font-weight: $font-weight-500;
+
+    font-size: $font-text-size;
+    height: $height;
+    align-items: center;
+    width: 284px;
+    height: $height;
+
+    justify-content: center;
+
+    background-color: $secondary-color;
+
+
+
+
+}
+
+.fas{
+    margin-right: 15px;
+}
