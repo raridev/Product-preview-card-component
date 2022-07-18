@@ -3,7 +3,24 @@
 /* COMPONENTS STYLES */
 /* FONTS */
 /* SIZES */
-@import url(components/_buttons.scss);
+/* BUTTON COMPONENTS */
+.btn {
+  display: flex;
+  font-family: "Fraunces";
+  font-weight: 500;
+  font-size: 15px;
+  height: 50px;
+  align-items: center;
+  width: 284px;
+  height: 50px;
+  justify-content: center;
+  background-color: #3C8067;
+}
+
+.fas {
+  margin-right: 15px;
+}
+
 * {
   padding: 0;
   margin: 0;
